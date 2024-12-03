@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola a todos. Soy Dani 👋
+Estoy aprendiendo a hacer pequeños programas 👨‍💻
 <!--
 **DanielSuero/DanielSuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
