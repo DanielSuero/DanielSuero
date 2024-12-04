@@ -1,5 +1,5 @@
-## Hola a todos. Soy Dani 👋
-Estoy aprendiendo a hacer pequeños programas 👨‍💻
+## Hola a todos. Soy Dani 👋 / Hello everyone. I'm Dani 👋
+Actualmente estoy aprendiendo a hacer pequeños programas 👨‍💻 / I'm learning how to make small programs at the moment
 <!--
 **DanielSuero/DanielSuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
